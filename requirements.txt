@@ -1,0 +1,7 @@
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+scikit-learn>=1.4
+pygam>=0.9
+openpyxl>=3.1
+notebook>=7
